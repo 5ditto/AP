@@ -1,7 +1,7 @@
 # AP
 
 ## Detetor de Objetos em Imagens
-
+Avaliar o desempenho de algortimos de deteção de objetos.
 
 ### Autores:
 
